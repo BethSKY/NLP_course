@@ -2,4 +2,4 @@
 Tasks and seminars of NLP Hyawei course
 
 **Files:**
-- Word2Vec - a practice task that trains Word2Vec model
+- Word2Vec.ipynb - a practice task that trains Word2Vec model
